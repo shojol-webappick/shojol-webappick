@@ -33,10 +33,10 @@
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
-    <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
+    <img align="center" height="60" src="https://github.com/shojol-webappick/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/ShojolIslamShojib" style="border: 5px solid black;">
-    <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/facebook.png?raw=true" alt="Facebook">
+    <img align="center" height="60" src="https://github.com/shojol-webappick/shojol-webappick/blob/main/Images/facebook.png?raw=true" alt="Facebook">
   </a>
 </p>
 
@@ -57,6 +57,6 @@
 ## Current overview
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning Express JS
-- 🤔 I’m looking for a Job or an Intern
+- 🌱 I’m currently learning WORDPRESS
+- 🤔 I’m working a jon in Webappick.com
 - ⚡ Fun fact: I love coding
