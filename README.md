@@ -32,8 +32,8 @@
 
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
-    <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
+ <a href="https://www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
+    <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/ShojolIslamShojib" style="border: 5px solid black;">
     <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/facebook.png?raw=true" alt="Facebook">
