@@ -58,5 +58,5 @@
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning WORDPRESS
-- 🤔 I’m working a jon in Webappick.com
+- 🤔 I’m working a job in Webappick.com
 - ⚡ Fun fact: I love coding
