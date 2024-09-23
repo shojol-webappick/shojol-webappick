@@ -45,8 +45,8 @@
 ## Profile Summary
 
 <p>
-<img style="width: 69%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
-<img  style="width: 29%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHOJOL-ISLAM-77&theme=nord_dark"/>
+<img style="width: 69%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shojol-webappick&theme=discord_old_blurple"/>
+<img  style="width: 29%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shojol-webappick&theme=nord_dark"/>
 </p>
 <br/>
 
